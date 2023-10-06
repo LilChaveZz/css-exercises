@@ -1,0 +1,19 @@
+.rosa {
+    background-color: rgb(231, 179, 187);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+.grande {
+    font-size: 24px;
+}
+
+#azul {
+    color: rgb(2, 2, 216);
+    font-size: 36px;
+}
+
+#verde {
+    background-color: rgb(177, 228, 177);
+    font-size: 24px;
+    font-weight: bold;
+}

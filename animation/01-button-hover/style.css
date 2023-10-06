@@ -8,6 +8,11 @@
   font-family: Arial, sans-serif;
 }
 
+#transition-container:hover {
+  font-family: "Times New Roman", sans-serif;
+}
+
+
 button {
   border-radius: 8px;
   border: none;
